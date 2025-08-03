@@ -1,0 +1,11 @@
+# A fork of discord.py with self-bot support
+discord.py-self
+
+# For loading environment variables from a .env file
+python-dotenv
+
+# Google Generative AI SDK for interacting with the Gemini model
+google-genai
+
+# For making HTTP requests to validate the token
+requests
